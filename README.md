@@ -1,5 +1,8 @@
 # micro-web-framework-template
 Micro-web framework template using Flask
 
-clone the repo and run py app.py in the terminal or CMD
-The application will run on http://localhost:2002/
+* Clone the repo and run py app.py in the terminal or CMD
+* When running the application, it will create an instance file for the Database 
+* The application will run on http://localhost:2002/
+
+
