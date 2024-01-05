@@ -1,4 +1,4 @@
-# micro-web-framework-template
+# Micro-Web-Framework-Template
 Micro-web framework template using Flask
 
 * Clone the repo and run py app.py in the terminal or CMD
