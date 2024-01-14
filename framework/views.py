@@ -13,29 +13,29 @@ def front_page():
 
 
 # CRUD Operations
-@views.route('/add')
-def add():
-    # operation logic
-    return render_template('add.html')
+# @views.route('/add')
+# def add():
+#     # operation logic
+#     return render_template('add.html')
 
-@views.route('/read')
-def read():
-    # operation logic
-    return render_template('read.html')
+# @views.route('/read')
+# def read():
+#     # operation logic
+#     return render_template('read.html')
 
-@views.route('/update')
-def update(id):
-    # operation logic
-    return render_template('update.html')
+# @views.route('/update')
+# def update(id):
+#     # operation logic
+#     return render_template('update.html')
 
-@views.route('/delete')
-def delete(id):
-    # operation logic
-    return render_template('delete.html')
+# @views.route('/delete')
+# def delete(id):
+#     # operation logic
+#     return render_template('delete.html')
 
 
-# Other Operations
-@views.route('/search')
-def search(id):
-    # logic
-    return render_template('search.html')
+# # Other Operations
+# @views.route('/search')
+# def search(id):
+#     # logic
+#     return render_template('search.html')
